@@ -1,0 +1,15 @@
+C:\Users\SESA872765\Documents\personal\c-sharp\bin\Debug\net10.0\..exe
+C:\Users\SESA872765\Documents\personal\c-sharp\bin\Debug\net10.0\..deps.json
+C:\Users\SESA872765\Documents\personal\c-sharp\bin\Debug\net10.0\..runtimeconfig.json
+C:\Users\SESA872765\Documents\personal\c-sharp\bin\Debug\net10.0\..dll
+C:\Users\SESA872765\Documents\personal\c-sharp\bin\Debug\net10.0\..pdb
+C:\Users\SESA872765\Documents\personal\c-sharp\obj\Debug\net10.0\..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SESA872765\Documents\personal\c-sharp\obj\Debug\net10.0\..AssemblyInfoInputs.cache
+C:\Users\SESA872765\Documents\personal\c-sharp\obj\Debug\net10.0\..AssemblyInfo.cs
+C:\Users\SESA872765\Documents\personal\c-sharp\obj\Debug\net10.0\..csproj.CoreCompileInputs.cache
+C:\Users\SESA872765\Documents\personal\c-sharp\obj\Debug\net10.0\..sourcelink.json
+C:\Users\SESA872765\Documents\personal\c-sharp\obj\Debug\net10.0\..dll
+C:\Users\SESA872765\Documents\personal\c-sharp\obj\Debug\net10.0\refint\..dll
+C:\Users\SESA872765\Documents\personal\c-sharp\obj\Debug\net10.0\..pdb
+C:\Users\SESA872765\Documents\personal\c-sharp\obj\Debug\net10.0\..genruntimeconfig.cache
+C:\Users\SESA872765\Documents\personal\c-sharp\obj\Debug\net10.0\ref\..dll
